@@ -2,7 +2,7 @@
 h1 
 {
 	font-family: "Garamond";
-	font-size: 18pt;
+	font-size: 25pt;
 	color:red;
 	text-align: center;
 }
@@ -11,7 +11,7 @@ h1
 p
 {
 	font-family: "Arial";
-	font-size:10pt;
+	font-size:20pt;
 	color:blue;
 	text-align: center;
 }
@@ -19,8 +19,9 @@ body
 {
 	
 	text-align: center;
+       background-color:#ff884d;
+
 }
 title
 {
 	color:yellow;
-}
